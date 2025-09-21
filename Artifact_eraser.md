@@ -32,7 +32,7 @@
 - C&C
     - Graph
     <img src="C&C Light.png" alt="Alt text">
-    - Components Description
+    - Components Description (Responsabilities, Technologies used, etc.)
         - **Frontend**: User interface for patients and doctors to interact with the system.
         - **API Gateway**: Routes requests to appropriate services and handles cross-cutting concerns.
         - **Auth Service**: Manages user authentication and authorization.
@@ -46,10 +46,25 @@
         - **Databases**: Stores all persistent data for the services.
 - Deployment Structure
     - Graph
-    - Description
+    - Description (Responsabilities, Cloud services used, etc.)
 
 ### Detailed Design
 
 - Data Model(s)
 - API Specs
 - Functional Flows
+
+## Discussion and Reflection
+
+In this section, the team must provide a critical analysis of the design and implementation carried out
+during the project. The goal is not only to describe what was done, but also to reason about why
+decisions were made, evaluate the effectiveness of the solution, and assess how well the system
+demonstrates cloud-native principles.
+
+The discussion should include the following elements:
+
+ - **Design Rationale**
+ - **Implementation Challenges**
+ - **Cloud-Native Principles Evaluation**
+ - **Effectiveness of the Process**
+ - **Lessons Learned**
