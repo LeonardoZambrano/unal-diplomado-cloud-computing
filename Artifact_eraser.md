@@ -31,7 +31,7 @@
 ### Architectural Design
 - #### C&C
     - Graph
-    <img src="C&C Light.png" alt="Alt text">
+    <img src="c&c.png" alt="Alt text">
     - **Frontend**: User interface for patients and doctors to interact with the system.
 
     - **API Gateway**: Routes requests to appropriate services and handles cross-cutting concerns.
