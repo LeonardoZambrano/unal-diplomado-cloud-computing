@@ -31,7 +31,7 @@
 ### Architectural Design
 - #### C&C
     - Graph
-    <img src="c&c.png" alt="Alt text">
+    <img src="C&C Light.png" alt="Alt text">
     - **Frontend**: User interface for patients and doctors to interact with the system.
 
     - **API Gateway**: Routes requests to appropriate services and handles cross-cutting concerns.
@@ -58,7 +58,7 @@
 
 - #### Deployment Structure
     - Graph
-    <img src="deploy.png" alt="Alt text">
+    <img src="Deployment View Light.png" alt="Alt text">
         
     - **Load Balancer:** Distributes incoming HTTP/HTTPS traffic across frontend and backend services.
         - Cloud Service: Google Cloud Load Balancing.
